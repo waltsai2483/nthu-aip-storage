@@ -1,7 +1,11 @@
 [
-{
+  {
   "code": 0,
   "routeID": "HSZ0008",
+  "routeName": {
+    "Zh_tw": "83",
+    "En": "83"
+  },
   "subroute": [
     {
       "routeID": "HSZ000801",
@@ -44,6 +48,10 @@
 {
   "code": 0,
   "routeID": "HSZ0182",
+  "routeName": {
+    "Zh_tw": "182",
+    "En": "182"
+  },
   "subroute": [
     {
       "routeID": "HSZ018201",
@@ -72,6 +80,10 @@
 {
   "code": 0,
   "routeID": "HSZ0010",
+  "routeName": {
+    "Zh_tw": "藍線1區",
+    "En": "藍線1區"
+  },
   "subroute": [
     {
       "routeID": "HSZ001001",
@@ -93,6 +105,10 @@
 {
   "code": 1,
   "routeID": "THB1619",
+  "routeName": {
+    "Zh_tw": "1619",
+    "En": "1619"
+  },
   "subroute": [
     {
       "routeID": "THB161901",
@@ -149,6 +165,10 @@
 {
   "code": 1,
   "routeID": "THB1728",
+  "routeName": {
+    "Zh_tw": "1728",
+    "En": "1728"
+  },
   "subroute": [
     {
       "routeID": "THB172801",
@@ -177,6 +197,10 @@
 {
   "code": 1,
   "routeID": "THB2011",
+  "routeName": {
+    "Zh_tw": "2011",
+    "En": "2011"
+  },
   "subroute": [
     {
       "routeID": "THB201101",
@@ -226,6 +250,10 @@
 {
   "code": 1,
   "routeID": "THB1804",
+  "routeName": {
+    "Zh_tw": "1804",
+    "En": "1804"
+  },
   "subroute": [
     {
       "routeID": "THB180401",
@@ -268,6 +296,10 @@
 {
   "code": 1,
   "routeID": "THB1822",
+  "routeName": {
+    "Zh_tw": "1822",
+    "En": "1822"
+  },
   "subroute": [
     {
       "routeID": "THB182201",
@@ -310,6 +342,10 @@
 {
   "code": 1,
   "routeID": "THB1865",
+  "routeName": {
+    "Zh_tw": "1865",
+    "En": "1865"
+  },
   "subroute": [
     {
       "routeID": "THB186501",
@@ -338,6 +374,10 @@
 {
   "code": 1,
   "routeID": "THB1866",
+  "routeName": {
+    "Zh_tw": "1866",
+    "En": "1866"
+  },
   "subroute": [
     {
       "routeID": "THB186601",
@@ -394,6 +434,10 @@
 {
   "code": 1,
   "routeID": "THB9003",
+  "routeName": {
+    "Zh_tw": "9003",
+    "En": "9003"
+  },
   "subroute": [
     {
       "routeID": "THB900301",
@@ -422,6 +466,10 @@
 {
   "code": 1,
   "routeID": "THB9010",
+  "routeName": {
+    "Zh_tw": "9010",
+    "En": "9010"
+  },
   "subroute": [
     {
       "routeID": "THB901001",
@@ -461,5 +509,4 @@
     "en": "Hsinchu bus station"
   }
 },
-
 ]
