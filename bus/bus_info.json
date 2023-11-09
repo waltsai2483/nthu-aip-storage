@@ -8,29 +8,29 @@
         },
         "subroute": [
             {
-                "routeID": "HSZ000801",
-                "routeName": {
+                "subrouteID": "HSZ00080",
+                "subrouteName": {
                     "zh": "83",
                     "en": "83"
                 }
             },
             {
-                "routeID": "HSZ000802",
-                "routeName": {
+                "subrouteID": "HSZ00080",
+                "subrouteName": {
                     "zh": "83",
                     "en": "83"
                 }
             },
             {
-                "routeID": "HSZ0008A1",
-                "routeName": {
+                "subrouteID": "HSZ0008A",
+                "subrouteName": {
                     "zh": "83支A",
                     "en": "83支A"
                 }
             },
             {
-                "routeID": "HSZ0008A2",
-                "routeName": {
+                "subrouteID": "HSZ0008A",
+                "subrouteName": {
                     "zh": "83支A",
                     "en": "83支A"
                 }
@@ -54,15 +54,15 @@
         },
         "subroute": [
             {
-                "routeID": "HSZ018201",
-                "routeName": {
+                "subrouteID": "HSZ01820",
+                "subrouteName": {
                     "zh": "182",
                     "en": "182"
                 }
             },
             {
-                "routeID": "HSZ018202",
-                "routeName": {
+                "subrouteID": "HSZ01820",
+                "subrouteName": {
                     "zh": "182",
                     "en": "182"
                 }
@@ -86,8 +86,8 @@
         },
         "subroute": [
             {
-                "routeID": "HSZ001001",
-                "routeName": {
+                "subrouteID": "HSZ00100",
+                "subrouteName": {
                     "zh": "藍線1區",
                     "en": "藍線1區"
                 }
@@ -111,43 +111,43 @@
         },
         "subroute": [
             {
-                "routeID": "THB161901",
-                "routeName": {
+                "subrouteID": "THB16190",
+                "subrouteName": {
                     "zh": "1619",
                     "en": "1619"
                 }
             },
             {
-                "routeID": "THB161902",
-                "routeName": {
+                "subrouteID": "THB16190",
+                "subrouteName": {
                     "zh": "1619",
                     "en": "1619"
                 }
             },
             {
-                "routeID": "THB1619A1",
-                "routeName": {
+                "subrouteID": "THB1619A",
+                "subrouteName": {
                     "zh": "1619A",
                     "en": "1619A"
                 }
             },
             {
-                "routeID": "THB1619A2",
-                "routeName": {
+                "subrouteID": "THB1619A",
+                "subrouteName": {
                     "zh": "1619A",
                     "en": "1619A"
                 }
             },
             {
-                "routeID": "THB1619B1",
-                "routeName": {
+                "subrouteID": "THB1619B",
+                "subrouteName": {
                     "zh": "1619B",
                     "en": "1619B"
                 }
             },
             {
-                "routeID": "THB1619B2",
-                "routeName": {
+                "subrouteID": "THB1619B",
+                "subrouteName": {
                     "zh": "1619B",
                     "en": "1619B"
                 }
@@ -171,15 +171,15 @@
         },
         "subroute": [
             {
-                "routeID": "THB172801",
-                "routeName": {
+                "subrouteID": "THB17280",
+                "subrouteName": {
                     "zh": "1728",
                     "en": "1728"
                 }
             },
             {
-                "routeID": "THB172802",
-                "routeName": {
+                "subrouteID": "THB17280",
+                "subrouteName": {
                     "zh": "1728",
                     "en": "1728"
                 }
@@ -203,36 +203,36 @@
         },
         "subroute": [
             {
-                "routeID": "THB201101",
-                "routeName": {
+                "subrouteID": "THB20110",
+                "subrouteName": {
                     "zh": "2011",
                     "en": "2011"
                 }
             },
             {
-                "routeID": "THB201102",
-                "routeName": {
+                "subrouteID": "THB20110",
+                "subrouteName": {
                     "zh": "2011",
                     "en": "2011"
                 }
             },
             {
-                "routeID": "THB2011B2",
-                "routeName": {
+                "subrouteID": "THB2011B",
+                "subrouteName": {
                     "zh": "2011B",
                     "en": "2011B"
                 }
             },
             {
-                "routeID": "THB2011C1",
-                "routeName": {
+                "subrouteID": "THB2011C",
+                "subrouteName": {
                     "zh": "2011C",
                     "en": "2011C"
                 }
             },
             {
-                "routeID": "THB2011C2",
-                "routeName": {
+                "subrouteID": "THB2011C",
+                "subrouteName": {
                     "zh": "2011C",
                     "en": "2011C"
                 }
@@ -256,29 +256,29 @@
         },
         "subroute": [
             {
-                "routeID": "THB180401",
-                "routeName": {
+                "subrouteID": "THB18040",
+                "subrouteName": {
                     "zh": "1804",
                     "en": "1804"
                 }
             },
             {
-                "routeID": "THB180402",
-                "routeName": {
+                "subrouteID": "THB18040",
+                "subrouteName": {
                     "zh": "1804",
                     "en": "1804"
                 }
             },
             {
-                "routeID": "THB1804A1",
-                "routeName": {
+                "subrouteID": "THB1804A",
+                "subrouteName": {
                     "zh": "1804A",
                     "en": "1804A"
                 }
             },
             {
-                "routeID": "THB1804A2",
-                "routeName": {
+                "subrouteID": "THB1804A",
+                "subrouteName": {
                     "zh": "1804A",
                     "en": "1804A"
                 }
@@ -302,29 +302,29 @@
         },
         "subroute": [
             {
-                "routeID": "THB182201",
-                "routeName": {
+                "subrouteID": "THB18220",
+                "subrouteName": {
                     "zh": "1822",
                     "en": "1822"
                 }
             },
             {
-                "routeID": "THB182202",
-                "routeName": {
+                "subrouteID": "THB18220",
+                "subrouteName": {
                     "zh": "1822",
                     "en": "1822"
                 }
             },
             {
-                "routeID": "THB1822A1",
-                "routeName": {
+                "subrouteID": "THB1822A",
+                "subrouteName": {
                     "zh": "1822A",
                     "en": "1822A"
                 }
             },
             {
-                "routeID": "THB1822A2",
-                "routeName": {
+                "subrouteID": "THB1822A",
+                "subrouteName": {
                     "zh": "1822A",
                     "en": "1822A"
                 }
@@ -348,15 +348,15 @@
         },
         "subroute": [
             {
-                "routeID": "THB186501",
-                "routeName": {
+                "subrouteID": "THB18650",
+                "subrouteName": {
                     "zh": "1865",
                     "en": "1865"
                 }
             },
             {
-                "routeID": "THB186502",
-                "routeName": {
+                "subrouteID": "THB18650",
+                "subrouteName": {
                     "zh": "1865",
                     "en": "1865"
                 }
@@ -380,43 +380,43 @@
         },
         "subroute": [
             {
-                "routeID": "THB186601",
-                "routeName": {
+                "subrouteID": "THB18660",
+                "subrouteName": {
                     "zh": "1866",
                     "en": "1866"
                 }
             },
             {
-                "routeID": "THB186602",
-                "routeName": {
+                "subrouteID": "THB18660",
+                "subrouteName": {
                     "zh": "1866",
                     "en": "1866"
                 }
             },
             {
-                "routeID": "THB1866A1",
-                "routeName": {
+                "subrouteID": "THB1866A",
+                "subrouteName": {
                     "zh": "1866A",
                     "en": "1866A"
                 }
             },
             {
-                "routeID": "THB1866A2",
-                "routeName": {
+                "subrouteID": "THB1866A",
+                "subrouteName": {
                     "zh": "1866A",
                     "en": "1866A"
                 }
             },
             {
-                "routeID": "THB1866B1",
-                "routeName": {
+                "subrouteID": "THB1866B",
+                "subrouteName": {
                     "zh": "1866B",
                     "en": "1866B"
                 }
             },
             {
-                "routeID": "THB1866B2",
-                "routeName": {
+                "subrouteID": "THB1866B",
+                "subrouteName": {
                     "zh": "1866B",
                     "en": "1866B"
                 }
@@ -440,15 +440,15 @@
         },
         "subroute": [
             {
-                "routeID": "THB900301",
-                "routeName": {
+                "subrouteID": "THB90030",
+                "subrouteName": {
                     "zh": "9003",
                     "en": "9003"
                 }
             },
             {
-                "routeID": "THB900302",
-                "routeName": {
+                "subrouteID": "THB90030",
+                "subrouteName": {
                     "zh": "9003",
                     "en": "9003"
                 }
@@ -472,29 +472,29 @@
         },
         "subroute": [
             {
-                "routeID": "THB901001",
-                "routeName": {
+                "subrouteID": "THB90100",
+                "subrouteName": {
                     "zh": "9010",
                     "en": "9010"
                 }
             },
             {
-                "routeID": "THB901002",
-                "routeName": {
+                "subrouteID": "THB90100",
+                "subrouteName": {
                     "zh": "9010",
                     "en": "9010"
                 }
             },
             {
-                "routeID": "THB9010A1",
-                "routeName": {
+                "subrouteID": "THB9010A",
+                "subrouteName": {
                     "zh": "9010A",
                     "en": "9010A"
                 }
             },
             {
-                "routeID": "THB9010A2",
-                "routeName": {
+                "subrouteID": "THB9010A",
+                "subrouteName": {
                     "zh": "9010A",
                     "en": "9010A"
                 }
