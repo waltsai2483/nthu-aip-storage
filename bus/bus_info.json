@@ -1,512 +1,512 @@
 [
-  {
-    "code": 0,
-    "routeID": "HSZ0008",
-    "routeName": {
-        "zh": "83",
-        "en": "83"
-    },
-    "subroute": [
-        {
-            "routeID": "HSZ000801",
-            "routeName": {
-                "zh": "83",
-                "en": "83"
-            }
+    {
+        "code": 0,
+        "routeID": "HSZ0008",
+        "routeName": {
+            "zh": "83",
+            "en": "83"
         },
-        {
-            "routeID": "HSZ000802",
-            "routeName": {
-                "zh": "83",
-                "en": "83"
+        "subroute": [
+            {
+                "routeID": "HSZ000801",
+                "routeName": {
+                    "zh": "83",
+                    "en": "83"
+                }
+            },
+            {
+                "routeID": "HSZ000802",
+                "routeName": {
+                    "zh": "83",
+                    "en": "83"
+                }
+            },
+            {
+                "routeID": "HSZ0008A1",
+                "routeName": {
+                    "zh": "83支A",
+                    "en": "83支A"
+                }
+            },
+            {
+                "routeID": "HSZ0008A2",
+                "routeName": {
+                    "zh": "83支A",
+                    "en": "83支A"
+                }
             }
+        ],
+        "departure": {
+            "zh": "成德路",
+            "en": "Chengde Road"
         },
-        {
-            "routeID": "HSZ0008A1",
-            "routeName": {
-                "zh": "83支A",
-                "en": "83支A"
-            }
-        },
-        {
-            "routeID": "HSZ0008A2",
-            "routeName": {
-                "zh": "83支A",
-                "en": "83支A"
-            }
+        "destination": {
+            "zh": "北校門",
+            "en": "North Campus"
         }
-    ],
-    "departure": {
-        "zh": "成德路",
-        "en": "Chengde Road"
     },
-    "destination": {
-        "zh": "北校門",
-        "en": "North Campus"
-    }
-} ,
-{
-    "code": 0,
-    "routeID": "HSZ0182",
-    "routeName": {
-        "zh": "182",
-        "en": "182"
-    },
-    "subroute": [
-        {
-            "routeID": "HSZ018201",
-            "routeName": {
-                "zh": "182",
-                "en": "182"
-            }
+    {
+        "code": 0,
+        "routeID": "HSZ0182",
+        "routeName": {
+            "zh": "182",
+            "en": "182"
         },
-        {
-            "routeID": "HSZ018202",
-            "routeName": {
-                "zh": "182",
-                "en": "182"
+        "subroute": [
+            {
+                "routeID": "HSZ018201",
+                "routeName": {
+                    "zh": "182",
+                    "en": "182"
+                }
+            },
+            {
+                "routeID": "HSZ018202",
+                "routeName": {
+                    "zh": "182",
+                    "en": "182"
+                }
             }
+        ],
+        "departure": {
+            "zh": "北大橋",
+            "en": "Bei-Da Bridge"
+        },
+        "destination": {
+            "zh": "高鐵新竹站",
+            "en": "THSR Hsinchu Station"
         }
-    ],
-    "departure": {
-        "zh": "北大橋",
-        "en": "Bei-Da Bridge"
     },
-    "destination": {
-        "zh": "高鐵新竹站",
-        "en": "THSR Hsinchu Station"
-    }
-} ,
-{
-    "code": 0,
-    "routeID": "HSZ0010",
-    "routeName": {
-        "zh": "藍線1區",
-        "en": "藍線1區"
-    },
-    "subroute": [
-        {
-            "routeID": "HSZ001001",
-            "routeName": {
-                "zh": "藍線1區",
-                "en": "藍線1區"
+    {
+        "code": 0,
+        "routeID": "HSZ0010",
+        "routeName": {
+            "zh": "藍線1區",
+            "en": "藍線1區"
+        },
+        "subroute": [
+            {
+                "routeID": "HSZ001001",
+                "routeName": {
+                    "zh": "藍線1區",
+                    "en": "藍線1區"
+                }
             }
+        ],
+        "departure": {
+            "zh": "火車站",
+            "en": "Train Station"
+        },
+        "destination": {
+            "zh": "火車站",
+            "en": "Train Station"
         }
-    ],
-    "departure": {
-        "zh": "火車站",
-        "en": "Train Station"
     },
-    "destination": {
-        "zh": "火車站",
-        "en": "Train Station"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB1619",
-    "routeName": {
-        "zh": "1619",
-        "en": "1619"
-    },
-    "subroute": [
-        {
-            "routeID": "THB161901",
-            "routeName": {
-                "zh": "1619",
-                "en": "1619"
-            }
+    {
+        "code": 1,
+        "routeID": "THB1619",
+        "routeName": {
+            "zh": "1619",
+            "en": "1619"
         },
-        {
-            "routeID": "THB161902",
-            "routeName": {
-                "zh": "1619",
-                "en": "1619"
+        "subroute": [
+            {
+                "routeID": "THB161901",
+                "routeName": {
+                    "zh": "1619",
+                    "en": "1619"
+                }
+            },
+            {
+                "routeID": "THB161902",
+                "routeName": {
+                    "zh": "1619",
+                    "en": "1619"
+                }
+            },
+            {
+                "routeID": "THB1619A1",
+                "routeName": {
+                    "zh": "1619A",
+                    "en": "1619A"
+                }
+            },
+            {
+                "routeID": "THB1619A2",
+                "routeName": {
+                    "zh": "1619A",
+                    "en": "1619A"
+                }
+            },
+            {
+                "routeID": "THB1619B1",
+                "routeName": {
+                    "zh": "1619B",
+                    "en": "1619B"
+                }
+            },
+            {
+                "routeID": "THB1619B2",
+                "routeName": {
+                    "zh": "1619B",
+                    "en": "1619B"
+                }
             }
+        ],
+        "departure": {
+            "zh": "臺北轉運站",
+            "en": "Taipei Bus Station"
         },
-        {
-            "routeID": "THB1619A1",
-            "routeName": {
-                "zh": "1619A",
-                "en": "1619A"
-            }
-        },
-        {
-            "routeID": "THB1619A2",
-            "routeName": {
-                "zh": "1619A",
-                "en": "1619A"
-            }
-        },
-        {
-            "routeID": "THB1619B1",
-            "routeName": {
-                "zh": "1619B",
-                "en": "1619B"
-            }
-        },
-        {
-            "routeID": "THB1619B2",
-            "routeName": {
-                "zh": "1619B",
-                "en": "1619B"
-            }
+        "destination": {
+            "zh": "國軍英雄館",
+            "en": "Taichung HERO HOUSE"
         }
-    ],
-    "departure": {
-        "zh": "臺北轉運站",
-        "en": "Taipei Bus Station"
     },
-    "destination": {
-        "zh": "國軍英雄館",
-        "en": "Taichung HERO HOUSE"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB1728",
-    "routeName": {
-        "zh": "1728",
-        "en": "1728"
-    },
-    "subroute": [
-        {
-            "routeID": "THB172801",
-            "routeName": {
-                "zh": "1728",
-                "en": "1728"
-            }
+    {
+        "code": 1,
+        "routeID": "THB1728",
+        "routeName": {
+            "zh": "1728",
+            "en": "1728"
         },
-        {
-            "routeID": "THB172802",
-            "routeName": {
-                "zh": "1728",
-                "en": "1728"
+        "subroute": [
+            {
+                "routeID": "THB172801",
+                "routeName": {
+                    "zh": "1728",
+                    "en": "1728"
+                }
+            },
+            {
+                "routeID": "THB172802",
+                "routeName": {
+                    "zh": "1728",
+                    "en": "1728"
+                }
             }
+        ],
+        "departure": {
+            "zh": "仁愛敦化路口(圓環)",
+            "en": "Renai &amp; Dunhua Intersection (Circle)"
+        },
+        "destination": {
+            "zh": "新竹轉運站",
+            "en": "Hsinchu bus station"
         }
-    ],
-    "departure": {
-        "zh": "仁愛敦化路口(圓環)",
-        "en": "Renai &amp; Dunhua Intersection (Circle)"
     },
-    "destination": {
-        "zh": "新竹轉運站",
-        "en": "Hsinchu bus station"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB2011",
-    "routeName": {
-        "zh": "2011",
-        "en": "2011"
-    },
-    "subroute": [
-        {
-            "routeID": "THB201101",
-            "routeName": {
-                "zh": "2011",
-                "en": "2011"
-            }
+    {
+        "code": 1,
+        "routeID": "THB2011",
+        "routeName": {
+            "zh": "2011",
+            "en": "2011"
         },
-        {
-            "routeID": "THB201102",
-            "routeName": {
-                "zh": "2011",
-                "en": "2011"
+        "subroute": [
+            {
+                "routeID": "THB201101",
+                "routeName": {
+                    "zh": "2011",
+                    "en": "2011"
+                }
+            },
+            {
+                "routeID": "THB201102",
+                "routeName": {
+                    "zh": "2011",
+                    "en": "2011"
+                }
+            },
+            {
+                "routeID": "THB2011B2",
+                "routeName": {
+                    "zh": "2011B",
+                    "en": "2011B"
+                }
+            },
+            {
+                "routeID": "THB2011C1",
+                "routeName": {
+                    "zh": "2011C",
+                    "en": "2011C"
+                }
+            },
+            {
+                "routeID": "THB2011C2",
+                "routeName": {
+                    "zh": "2011C",
+                    "en": "2011C"
+                }
             }
+        ],
+        "departure": {
+            "zh": "臺北轉運站",
+            "en": "Taipei Bus Station"
         },
-        {
-            "routeID": "THB2011B2",
-            "routeName": {
-                "zh": "2011B",
-                "en": "2011B"
-            }
-        },
-        {
-            "routeID": "THB2011C1",
-            "routeName": {
-                "zh": "2011C",
-                "en": "2011C"
-            }
-        },
-        {
-            "routeID": "THB2011C2",
-            "routeName": {
-                "zh": "2011C",
-                "en": "2011C"
-            }
+        "destination": {
+            "zh": "新竹轉運站",
+            "en": "Hsinchu bus station"
         }
-    ],
-    "departure": {
-        "zh": "臺北轉運站",
-        "en": "Taipei Bus Station"
     },
-    "destination": {
-        "zh": "新竹轉運站",
-        "en": "Hsinchu bus station"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB1804",
-    "routeName": {
-        "zh": "1804",
-        "en": "1804"
-    },
-    "subroute": [
-        {
-            "routeID": "THB180401",
-            "routeName": {
-                "zh": "1804",
-                "en": "1804"
-            }
+    {
+        "code": 1,
+        "routeID": "THB1804",
+        "routeName": {
+            "zh": "1804",
+            "en": "1804"
         },
-        {
-            "routeID": "THB180402",
-            "routeName": {
-                "zh": "1804",
-                "en": "1804"
+        "subroute": [
+            {
+                "routeID": "THB180401",
+                "routeName": {
+                    "zh": "1804",
+                    "en": "1804"
+                }
+            },
+            {
+                "routeID": "THB180402",
+                "routeName": {
+                    "zh": "1804",
+                    "en": "1804"
+                }
+            },
+            {
+                "routeID": "THB1804A1",
+                "routeName": {
+                    "zh": "1804A",
+                    "en": "1804A"
+                }
+            },
+            {
+                "routeID": "THB1804A2",
+                "routeName": {
+                    "zh": "1804A",
+                    "en": "1804A"
+                }
             }
+        ],
+        "departure": {
+            "zh": "基隆站(國光)",
+            "en": "Keelung Station(KUO-KUANG)"
         },
-        {
-            "routeID": "THB1804A1",
-            "routeName": {
-                "zh": "1804A",
-                "en": "1804A"
-            }
-        },
-        {
-            "routeID": "THB1804A2",
-            "routeName": {
-                "zh": "1804A",
-                "en": "1804A"
-            }
+        "destination": {
+            "zh": "新竹轉運站",
+            "en": "Hsinchu Bus Station"
         }
-    ],
-    "departure": {
-        "zh": "基隆站(國光)",
-        "en": "Keelung Station(KUO-KUANG)"
     },
-    "destination": {
-        "zh": "新竹轉運站",
-        "en": "Hsinchu Bus Station"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB1822",
-    "routeName": {
-        "zh": "1822",
-        "en": "1822"
-    },
-    "subroute": [
-        {
-            "routeID": "THB182201",
-            "routeName": {
-                "zh": "1822",
-                "en": "1822"
-            }
+    {
+        "code": 1,
+        "routeID": "THB1822",
+        "routeName": {
+            "zh": "1822",
+            "en": "1822"
         },
-        {
-            "routeID": "THB182202",
-            "routeName": {
-                "zh": "1822",
-                "en": "1822"
+        "subroute": [
+            {
+                "routeID": "THB182201",
+                "routeName": {
+                    "zh": "1822",
+                    "en": "1822"
+                }
+            },
+            {
+                "routeID": "THB182202",
+                "routeName": {
+                    "zh": "1822",
+                    "en": "1822"
+                }
+            },
+            {
+                "routeID": "THB1822A1",
+                "routeName": {
+                    "zh": "1822A",
+                    "en": "1822A"
+                }
+            },
+            {
+                "routeID": "THB1822A2",
+                "routeName": {
+                    "zh": "1822A",
+                    "en": "1822A"
+                }
             }
+        ],
+        "departure": {
+            "zh": "臺北轉運站",
+            "en": "Taipei Bus Station"
         },
-        {
-            "routeID": "THB1822A1",
-            "routeName": {
-                "zh": "1822A",
-                "en": "1822A"
-            }
-        },
-        {
-            "routeID": "THB1822A2",
-            "routeName": {
-                "zh": "1822A",
-                "en": "1822A"
-            }
+        "destination": {
+            "zh": "新竹轉運站",
+            "en": "Hsinchu Bus Station"
         }
-    ],
-    "departure": {
-        "zh": "臺北轉運站",
-        "en": "Taipei Bus Station"
     },
-    "destination": {
-        "zh": "新竹轉運站",
-        "en": "Hsinchu Bus Station"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB1865",
-    "routeName": {
-        "zh": "1865",
-        "en": "1865"
-    },
-    "subroute": [
-        {
-            "routeID": "THB186501",
-            "routeName": {
-                "zh": "1865",
-                "en": "1865"
-            }
+    {
+        "code": 1,
+        "routeID": "THB1865",
+        "routeName": {
+            "zh": "1865",
+            "en": "1865"
         },
-        {
-            "routeID": "THB186502",
-            "routeName": {
-                "zh": "1865",
-                "en": "1865"
+        "subroute": [
+            {
+                "routeID": "THB186501",
+                "routeName": {
+                    "zh": "1865",
+                    "en": "1865"
+                }
+            },
+            {
+                "routeID": "THB186502",
+                "routeName": {
+                    "zh": "1865",
+                    "en": "1865"
+                }
             }
+        ],
+        "departure": {
+            "zh": "新竹轉運站",
+            "en": "Hsinchu bus station"
+        },
+        "destination": {
+            "zh": "桃園長庚轉運站",
+            "en": "Taoyuan Changgung Bus Station"
         }
-    ],
-    "departure": {
-        "zh": "新竹轉運站",
-        "en": "Hsinchu bus station"
     },
-    "destination": {
-        "zh": "桃園長庚轉運站",
-        "en": "Taoyuan Changgung Bus Station"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB1866",
-    "routeName": {
-        "zh": "1866",
-        "en": "1866"
-    },
-    "subroute": [
-        {
-            "routeID": "THB186601",
-            "routeName": {
-                "zh": "1866",
-                "en": "1866"
-            }
+    {
+        "code": 1,
+        "routeID": "THB1866",
+        "routeName": {
+            "zh": "1866",
+            "en": "1866"
         },
-        {
-            "routeID": "THB186602",
-            "routeName": {
-                "zh": "1866",
-                "en": "1866"
+        "subroute": [
+            {
+                "routeID": "THB186601",
+                "routeName": {
+                    "zh": "1866",
+                    "en": "1866"
+                }
+            },
+            {
+                "routeID": "THB186602",
+                "routeName": {
+                    "zh": "1866",
+                    "en": "1866"
+                }
+            },
+            {
+                "routeID": "THB1866A1",
+                "routeName": {
+                    "zh": "1866A",
+                    "en": "1866A"
+                }
+            },
+            {
+                "routeID": "THB1866A2",
+                "routeName": {
+                    "zh": "1866A",
+                    "en": "1866A"
+                }
+            },
+            {
+                "routeID": "THB1866B1",
+                "routeName": {
+                    "zh": "1866B",
+                    "en": "1866B"
+                }
+            },
+            {
+                "routeID": "THB1866B2",
+                "routeName": {
+                    "zh": "1866B",
+                    "en": "1866B"
+                }
             }
+        ],
+        "departure": {
+            "zh": "新竹轉運站",
+            "en": "Hsinchu bus station"
         },
-        {
-            "routeID": "THB1866A1",
-            "routeName": {
-                "zh": "1866A",
-                "en": "1866A"
-            }
-        },
-        {
-            "routeID": "THB1866A2",
-            "routeName": {
-                "zh": "1866A",
-                "en": "1866A"
-            }
-        },
-        {
-            "routeID": "THB1866B1",
-            "routeName": {
-                "zh": "1866B",
-                "en": "1866B"
-            }
-        },
-        {
-            "routeID": "THB1866B2",
-            "routeName": {
-                "zh": "1866B",
-                "en": "1866B"
-            }
+        "destination": {
+            "zh": "國光客運臺中車站",
+            "en": "Taichung Bus Terminal (KUO-KUANG)"
         }
-    ],
-    "departure": {
-        "zh": "新竹轉運站",
-        "en": "Hsinchu bus station"
     },
-    "destination": {
-        "zh": "國光客運臺中車站",
-        "en": "Taichung Bus Terminal (KUO-KUANG)"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB9003",
-    "routeName": {
-        "zh": "9003",
-        "en": "9003"
-    },
-    "subroute": [
-        {
-            "routeID": "THB900301",
-            "routeName": {
-                "zh": "9003",
-                "en": "9003"
-            }
+    {
+        "code": 1,
+        "routeID": "THB9003",
+        "routeName": {
+            "zh": "9003",
+            "en": "9003"
         },
-        {
-            "routeID": "THB900302",
-            "routeName": {
-                "zh": "9003",
-                "en": "9003"
+        "subroute": [
+            {
+                "routeID": "THB900301",
+                "routeName": {
+                    "zh": "9003",
+                    "en": "9003"
+                }
+            },
+            {
+                "routeID": "THB900302",
+                "routeName": {
+                    "zh": "9003",
+                    "en": "9003"
+                }
             }
+        ],
+        "departure": {
+            "zh": "臺北轉運站",
+            "en": "Taipei Bus Station"
+        },
+        "destination": {
+            "zh": "新竹轉運站",
+            "en": "Hsinchu bus station"
         }
-    ],
-    "departure": {
-        "zh": "臺北轉運站",
-        "en": "Taipei Bus Station"
     },
-    "destination": {
-        "zh": "新竹轉運站",
-        "en": "Hsinchu bus station"
-    }
-} ,
-{
-    "code": 1,
-    "routeID": "THB9010",
-    "routeName": {
-        "zh": "9010",
-        "en": "9010"
-    },
-    "subroute": [
-        {
-            "routeID": "THB901001",
-            "routeName": {
-                "zh": "9010",
-                "en": "9010"
-            }
+    {
+        "code": 1,
+        "routeID": "THB9010",
+        "routeName": {
+            "zh": "9010",
+            "en": "9010"
         },
-        {
-            "routeID": "THB901002",
-            "routeName": {
-                "zh": "9010",
-                "en": "9010"
+        "subroute": [
+            {
+                "routeID": "THB901001",
+                "routeName": {
+                    "zh": "9010",
+                    "en": "9010"
+                }
+            },
+            {
+                "routeID": "THB901002",
+                "routeName": {
+                    "zh": "9010",
+                    "en": "9010"
+                }
+            },
+            {
+                "routeID": "THB9010A1",
+                "routeName": {
+                    "zh": "9010A",
+                    "en": "9010A"
+                }
+            },
+            {
+                "routeID": "THB9010A2",
+                "routeName": {
+                    "zh": "9010A",
+                    "en": "9010A"
+                }
             }
+        ],
+        "departure": {
+            "zh": "臺中車站(大智北路)",
+            "en": "Taichung Station(Dazhi North Road)"
         },
-        {
-            "routeID": "THB9010A1",
-            "routeName": {
-                "zh": "9010A",
-                "en": "9010A"
-            }
-        },
-        {
-            "routeID": "THB9010A2",
-            "routeName": {
-                "zh": "9010A",
-                "en": "9010A"
-            }
+        "destination": {
+            "zh": "新竹轉運站",
+            "en": "Hsinchu bus station"
         }
-    ],
-    "departure": {
-        "zh": "臺中車站(大智北路)",
-        "en": "Taichung Station(Dazhi North Road)"
-    },
-    "destination": {
-        "zh": "新竹轉運站",
-        "en": "Hsinchu bus station"
     }
-}
 ]
