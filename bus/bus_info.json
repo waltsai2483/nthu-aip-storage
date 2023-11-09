@@ -1,0 +1,18 @@
+[
+  {
+    "available": true,
+    "routeID": "HSZ0008A",
+    "routeName": {
+      "zh": "83",
+      "en": "83"
+    },
+    "departure": {
+      "zh": "成德路",
+      "en": "Chengde Road"
+    },
+    "destination": {
+      "zh": "清華大學",
+      "en": "National Tsing Hua University"
+    }
+  }
+]
