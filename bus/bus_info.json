@@ -12,6 +12,10 @@
                 "subrouteName": {
                     "zh": "83",
                     "en": "83"
+                },
+                "headsign": {
+                    "zh": "成德路─清華大學",
+                    "en": "ChengDe Rd-National Tsing Hua University"
                 }
             },
             {
@@ -19,6 +23,10 @@
                 "subrouteName": {
                     "zh": "83",
                     "en": "83"
+                },
+                "headsign": {
+                    "zh": "清華大學─成德路",
+                    "en": "National Tsing Hua University-ChengDe Rd"
                 }
             },
             {
@@ -26,6 +34,10 @@
                 "subrouteName": {
                     "zh": "83支A",
                     "en": "83支A"
+                },
+                "headsign": {
+                    "zh": "成德路─清華大學(區)",
+                    "en": "ChengDe Rd-National Tsing Hua University"
                 }
             },
             {
@@ -33,6 +45,10 @@
                 "subrouteName": {
                     "zh": "83支A",
                     "en": "83支A"
+                },
+                "headsign": {
+                    "zh": "清華大學─成德路(區)",
+                    "en": "National Tsing Hua University-ChengDe Rd"
                 }
             }
         ],
@@ -58,6 +74,10 @@
                 "subrouteName": {
                     "zh": "182",
                     "en": "182"
+                },
+                "headsign": {
+                    "zh": "北大橋→高鐵新竹站",
+                    "en": "Bei-Da Bridge→THSR Hsinchu Station"
                 }
             },
             {
@@ -65,6 +85,10 @@
                 "subrouteName": {
                     "zh": "182",
                     "en": "182"
+                },
+                "headsign": {
+                    "zh": "高鐵新竹站→北大橋",
+                    "en": "THSR Hsinchu Station →Bei—Da Bridge"
                 }
             }
         ],
@@ -90,6 +114,10 @@
                 "subrouteName": {
                     "zh": "藍線1區",
                     "en": "藍線1區"
+                },
+                "headsign": {
+                    "zh": "火車站→竹中[循環線]",
+                    "en": "Train Station→Zhu Zhong→Train Station"
                 }
             }
         ],
@@ -115,6 +143,10 @@
                 "subrouteName": {
                     "zh": "1619",
                     "en": "1619"
+                },
+                "headsign": {
+                    "zh": "臺北→中港路→臺中",
+                    "en": "Taipei→Zhonggang Rd.→Taichung"
                 }
             },
             {
@@ -122,6 +154,10 @@
                 "subrouteName": {
                     "zh": "1619",
                     "en": "1619"
+                },
+                "headsign": {
+                    "zh": "臺中→中港路→臺北",
+                    "en": "Taichung→Zhonggang Rd.→Taipei"
                 }
             },
             {
@@ -129,6 +165,10 @@
                 "subrouteName": {
                     "zh": "1619A",
                     "en": "1619A"
+                },
+                "headsign": {
+                    "zh": "臺北→中港路→臺中[臺北至朝馬班次、不停科技生活館]",
+                    "en": "Taipei→Zhonggang Rd.→Taichung(Taipei→Zhaoma、no stops Science Park Life Hub)"
                 }
             },
             {
@@ -136,6 +176,10 @@
                 "subrouteName": {
                     "zh": "1619A",
                     "en": "1619A"
+                },
+                "headsign": {
+                    "zh": "臺中→中港路→臺北[朝馬至臺北班次、不停科技生活館]",
+                    "en": "Taichung→Zhonggang Rd.→Taipei(Zhaoma→Taipei、no stops Science Park Life Hub)"
                 }
             },
             {
@@ -143,6 +187,10 @@
                 "subrouteName": {
                     "zh": "1619B",
                     "en": "1619B"
+                },
+                "headsign": {
+                    "zh": "臺北→中港路→臺中[不停科技生活館]",
+                    "en": "Taipei→Zhonggang Rd.→Taichung(Not Via Science Park Life Hub)"
                 }
             },
             {
@@ -150,6 +198,10 @@
                 "subrouteName": {
                     "zh": "1619B",
                     "en": "1619B"
+                },
+                "headsign": {
+                    "zh": "臺中→中港路→臺北[不停科技生活館]",
+                    "en": "Taichung→Zhonggang Rd.→Taipei(Not Via Science Park Life Hub)"
                 }
             }
         ],
@@ -175,6 +227,10 @@
                 "subrouteName": {
                     "zh": "1728",
                     "en": "1728"
+                },
+                "headsign": {
+                    "zh": "臺北市→國道3號、1號→新竹市",
+                    "en": "Taipei City→National Freeway No. 3 and No.1→Hsinchu City"
                 }
             },
             {
@@ -182,6 +238,10 @@
                 "subrouteName": {
                     "zh": "1728",
                     "en": "1728"
+                },
+                "headsign": {
+                    "zh": "新竹市→國道3號、1號→臺北市",
+                    "en": "Hsinchu City→National Freeway No. 3 and No.1→Taipei City"
                 }
             }
         ],
@@ -207,6 +267,10 @@
                 "subrouteName": {
                     "zh": "2011",
                     "en": "2011"
+                },
+                "headsign": {
+                    "zh": "臺北市－新竹轉運站",
+                    "en": "Taipei City→Hsinchu bus station"
                 }
             },
             {
@@ -214,6 +278,10 @@
                 "subrouteName": {
                     "zh": "2011",
                     "en": "2011"
+                },
+                "headsign": {
+                    "zh": "新竹轉運站－臺北市",
+                    "en": "Hsinchu bus station→Taipei City"
                 }
             },
             {
@@ -221,6 +289,10 @@
                 "subrouteName": {
                     "zh": "2011B",
                     "en": "2011B"
+                },
+                "headsign": {
+                    "zh": "新竹香山牧場－臺北市[經茄苳交流道]",
+                    "en": "Hsinchu Xiangshan ranch→Taipei City(Via Jiadong Interchange)"
                 }
             },
             {
@@ -228,6 +300,10 @@
                 "subrouteName": {
                     "zh": "2011C",
                     "en": "2011C"
+                },
+                "headsign": {
+                    "zh": "臺北市－新竹香山牧場[經茄苳交流道]",
+                    "en": "Taipei City→Hsinchu Xiangshan ranch(Via Jiadong Interchange)"
                 }
             },
             {
@@ -235,6 +311,10 @@
                 "subrouteName": {
                     "zh": "2011C",
                     "en": "2011C"
+                },
+                "headsign": {
+                    "zh": "新竹香山牧場－臺北市[經茄苳交流道]",
+                    "en": "Hsinchu Xiangshan ranch→Taipei City(Via Jiadong Interchange)"
                 }
             }
         ],
@@ -260,6 +340,10 @@
                 "subrouteName": {
                     "zh": "1804",
                     "en": "1804"
+                },
+                "headsign": {
+                    "zh": "基隆→新竹",
+                    "en": "Keelung→Hsinchu"
                 }
             },
             {
@@ -267,6 +351,10 @@
                 "subrouteName": {
                     "zh": "1804",
                     "en": "1804"
+                },
+                "headsign": {
+                    "zh": "新竹→基隆",
+                    "en": "Hsinchu→Keelung"
                 }
             },
             {
@@ -274,6 +362,10 @@
                 "subrouteName": {
                     "zh": "1804A",
                     "en": "1804A"
+                },
+                "headsign": {
+                    "zh": "基隆→新竹[不經林口站]",
+                    "en": "Keelung→Hsinchu(not via Linkou Station)"
                 }
             },
             {
@@ -281,6 +373,10 @@
                 "subrouteName": {
                     "zh": "1804A",
                     "en": "1804A"
+                },
+                "headsign": {
+                    "zh": "新竹→基隆[不經林口站]",
+                    "en": "Hsinchu→Keelung(Not Via Linkou Station)"
                 }
             }
         ],
@@ -306,6 +402,10 @@
                 "subrouteName": {
                     "zh": "1822",
                     "en": "1822"
+                },
+                "headsign": {
+                    "zh": "臺北→新竹",
+                    "en": "Taipei→Hsinchu"
                 }
             },
             {
@@ -313,6 +413,10 @@
                 "subrouteName": {
                     "zh": "1822",
                     "en": "1822"
+                },
+                "headsign": {
+                    "zh": "新竹→臺北",
+                    "en": "Hsinchu→Taipei"
                 }
             },
             {
@@ -320,6 +424,10 @@
                 "subrouteName": {
                     "zh": "1822A",
                     "en": "1822A"
+                },
+                "headsign": {
+                    "zh": "臺北→新竹[經中華大學]",
+                    "en": "Taipei→Hsinchu(Via Chung Hua University)"
                 }
             },
             {
@@ -327,6 +435,10 @@
                 "subrouteName": {
                     "zh": "1822A",
                     "en": "1822A"
+                },
+                "headsign": {
+                    "zh": "新竹→臺北[經中華大學]",
+                    "en": "Hsinchu→Taipei(Via Chung Hua University)"
                 }
             }
         ],
@@ -352,6 +464,10 @@
                 "subrouteName": {
                     "zh": "1865",
                     "en": "1865"
+                },
+                "headsign": {
+                    "zh": "新竹→林口",
+                    "en": "Hsinchu→Linkou"
                 }
             },
             {
@@ -359,6 +475,10 @@
                 "subrouteName": {
                     "zh": "1865",
                     "en": "1865"
+                },
+                "headsign": {
+                    "zh": "林口→新竹",
+                    "en": "Linkou→Hsinchu"
                 }
             }
         ],
@@ -384,6 +504,10 @@
                 "subrouteName": {
                     "zh": "1866",
                     "en": "1866"
+                },
+                "headsign": {
+                    "zh": "新竹→臺中",
+                    "en": "Hsinchu→Taichung"
                 }
             },
             {
@@ -391,6 +515,10 @@
                 "subrouteName": {
                     "zh": "1866",
                     "en": "1866"
+                },
+                "headsign": {
+                    "zh": "臺中→新竹",
+                    "en": "Taichung→Hsinchu"
                 }
             },
             {
@@ -398,6 +526,10 @@
                 "subrouteName": {
                     "zh": "1866A",
                     "en": "1866A"
+                },
+                "headsign": {
+                    "zh": "新竹→臺中[經元培大學]",
+                    "en": "Hsinchu→Taichung(Via Yuanpei University)"
                 }
             },
             {
@@ -405,6 +537,10 @@
                 "subrouteName": {
                     "zh": "1866A",
                     "en": "1866A"
+                },
+                "headsign": {
+                    "zh": "臺中→新竹[經元培大學]",
+                    "en": "Taichung→Hsinchu(Via Yuanpei University)"
                 }
             },
             {
@@ -412,6 +548,10 @@
                 "subrouteName": {
                     "zh": "1866B",
                     "en": "1866B"
+                },
+                "headsign": {
+                    "zh": "新竹→臺中(不經科技生活館站)",
+                    "en": "Hsinchu→Taichung(not via Science Park Life Hub)"
                 }
             },
             {
@@ -419,6 +559,10 @@
                 "subrouteName": {
                     "zh": "1866B",
                     "en": "1866B"
+                },
+                "headsign": {
+                    "zh": "臺中→新竹(不經科技生活館站)",
+                    "en": "Taichung→Hsinchu(not via Science Park Life Hub)"
                 }
             }
         ],
@@ -444,6 +588,10 @@
                 "subrouteName": {
                     "zh": "9003",
                     "en": "9003"
+                },
+                "headsign": {
+                    "zh": "臺北市→國道1號高速公路→新竹市",
+                    "en": "Taipei City→National Freeway No.1→Hsinchu City"
                 }
             },
             {
@@ -451,6 +599,10 @@
                 "subrouteName": {
                     "zh": "9003",
                     "en": "9003"
+                },
+                "headsign": {
+                    "zh": "新竹市→國道1號高速公路→臺北市",
+                    "en": "Hsinchu City→National Freeway No.1→Taipei City"
                 }
             }
         ],
@@ -476,6 +628,10 @@
                 "subrouteName": {
                     "zh": "9010",
                     "en": "9010"
+                },
+                "headsign": {
+                    "zh": "臺中市→國道１號→新竹市",
+                    "en": "Taichung City→National Freeway No. 1→Hsinchu City"
                 }
             },
             {
@@ -483,6 +639,10 @@
                 "subrouteName": {
                     "zh": "9010",
                     "en": "9010"
+                },
+                "headsign": {
+                    "zh": "新竹市→國道１號→臺中市",
+                    "en": "Hsinchu City→National Freeway No. 1→Taichung City"
                 }
             },
             {
@@ -490,6 +650,10 @@
                 "subrouteName": {
                     "zh": "9010A",
                     "en": "9010A"
+                },
+                "headsign": {
+                    "zh": "臺中市→國道１號→新竹市[經大雅交流道]",
+                    "en": "Taichung City→National Freeway No. 1→Hsinchu City[Via Daya Interchange]"
                 }
             },
             {
@@ -497,6 +661,10 @@
                 "subrouteName": {
                     "zh": "9010A",
                     "en": "9010A"
+                },
+                "headsign": {
+                    "zh": "新竹市→國道１號→臺中市[經大雅交流道]",
+                    "en": "Hsinchu City→National Freeway No. 1→Taichung City[Via Daya Interchange]"
                 }
             }
         ],
