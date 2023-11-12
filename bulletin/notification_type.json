@@ -1,0 +1,17 @@
+[
+    {
+        "name": {
+          "zh": "校本部",
+          "en": "Campus Bulletin"
+        },
+        "link": "https://bulletin.site.nthu.edu.tw/app/index.php",
+        "types": [
+            {
+              "code": "5074",
+              "name": {
+                "zh": "行政公告",
+                "en": "Admin Announcement"
+              }
+            }          ]
+    }
+]
