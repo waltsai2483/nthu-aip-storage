@@ -1,67 +1,139 @@
 [
     {
         "name": {
-          "zh": "校本部",
-          "en": "Main Campus"
+            "zh": "校本部",
+            "en": "Main Campus"
         },
-        "link": "https://bulletin.site.nthu.edu.tw/app/index.php",
         "types": [
             {
-              "code": "5074",
-              "name": {
-                "zh": "行政公告",
-                "en": "Admin Announcement"
-              }
+                "rcg": 5074,
+                "name": {
+                    "zh": "行政公告",
+                    "en": "Admin Announcement"
+                }
             },
             {
-              "code": "5075",
-              "name": {
-                "zh": "校內徵才",
-                "en": "On-campus Recruitment"
-              }
+                "rcg": 5075,
+                "name": {
+                    "zh": "校內徵才",
+                    "en": "On-campus Recruitment"
+                }
             },
             {
-              "code": "5081",
-              "name": {
-                "zh": "校外徵才",
-                "en": "Off-campus Recruitment"
-              }
+                "rcg": 5081,
+                "name": {
+                    "zh": "校外徵才",
+                    "en": "Off-campus Recruitment"
+                }
             },
             {
-              "code": "5082",
-              "name": {
-                "zh": "招生公告",
-                "en": "Admission Announcement"
-              }
+                "rcg": 5082,
+                "name": {
+                    "zh": "招生公告",
+                    "en": "Admission Announcement"
+                }
             },
             {
-              "code": "5083",
-              "name": {
-                "zh": "藝文活動",
-                "en": "Art&Culture Activities"
-              }
+                "rcg": 5083,
+                "name": {
+                    "zh": "藝文活動",
+                    "en": "Art&Culture Activities"
+                }
             },
             {
-              "code": "5084",
-              "name": {
-                "zh": "學術活動",
-                "en": "Academic Activities"
-              }
+                "rcg": 5084,
+                "name": {
+                    "zh": "學術活動",
+                    "en": "Academic Activities"
+                }
             },
             {
-              "code": "5085",
-              "name": {
-                "zh": "學生活動",
-                "en": "Student Activities"
-              }
+                "rcg": 5085,
+                "name": {
+                    "zh": "學生活動",
+                    "en": "Student Activities"
+                }
             },
             {
-              "code": "5086",
-              "name": {
-                "zh": "其他公告",
-                "en": "Other Announcements"
-              }
+                "rcg": 5086,
+                "name": {
+                    "zh": "其他公告",
+                    "en": "Others"
+                }
             }
-        ]
+        ],
+        "link": "https://bulletin.site.nthu.edu.tw/app/index.php"
+    },
+    {
+        "name": {
+            "zh": "資工系",
+            "en": "CS Department"
+        },
+        "types": [
+            {
+                "rcg": 63,
+                "name": {
+                    "zh": "一般公告",
+                    "en": "General Announcement"
+                }
+            },
+            {
+                "rcg": 64,
+                "name": {
+                    "zh": "大學部公告",
+                    "en": "Undergraduate Announcement"
+                }
+            },
+            {
+                "rcg": 65,
+                "name": {
+                    "zh": "碩士班公告",
+                    "en": "Master Announcement"
+                }
+            },
+            {
+                "rcg": 66,
+                "name": {
+                    "zh": "博士班公告",
+                    "en": "PhD Announcement"
+                }
+            },
+            {
+                "rcg": 67,
+                "name": {
+                    "zh": "演講公告",
+                    "en": "Lecture Announcement"
+                }
+            },
+            {
+                "rcg": 2779,
+                "name": {
+                    "zh": "徵才訊息",
+                    "en": "Recruitments"
+                }
+            },
+            {
+                "rcg": 3304,
+                "name": {
+                    "zh": "活動競賽",
+                    "en": "Activities & Competitions"
+                }
+            },
+            {
+                "rcg": 2132,
+                "name": {
+                    "zh": "獎學金公告",
+                    "en": "Scholarship"
+                }
+            },
+            {
+                "rcg": 6969,
+                "name": {
+                    "zh": "資工新聞",
+                    "en": "CS News"
+                }
+            }
+        ],
+        "link": "https://dcs.site.nthu.edu.tw/app/index.php"
     }
 ]
