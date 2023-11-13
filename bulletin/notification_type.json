@@ -2,7 +2,7 @@
     {
         "name": {
           "zh": "校本部",
-          "en": "Campus Bulletin"
+          "en": "Main Campus"
         },
         "link": "https://bulletin.site.nthu.edu.tw/app/index.php",
         "types": [
@@ -12,6 +12,56 @@
                 "zh": "行政公告",
                 "en": "Admin Announcement"
               }
-            }          ]
+            },
+            {
+              "code": "5075",
+              "name": {
+                "zh": "校內徵才",
+                "en": "On-campus Recruitment"
+              }
+            },
+            {
+              "code": "5081",
+              "name": {
+                "zh": "校外徵才",
+                "en": "Off-campus Recruitment"
+              }
+            },
+            {
+              "code": "5082",
+              "name": {
+                "zh": "招生公告",
+                "en": "Admission Announcement"
+              }
+            },
+            {
+              "code": "5083",
+              "name": {
+                "zh": "藝文活動",
+                "en": "Art&Culture Activities"
+              }
+            },
+            {
+              "code": "5084",
+              "name": {
+                "zh": "學術活動",
+                "en": "Academic Activities"
+              }
+            },
+            {
+              "code": "5085",
+              "name": {
+                "zh": "學生活動",
+                "en": "Student Activities"
+              }
+            },
+            {
+              "code": "5086",
+              "name": {
+                "zh": "其他公告",
+                "en": "Other Announcements"
+              }
+            }
+        ]
     }
 ]
